@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+#### FullStack Dev student at HETIC Digital school !
+
+<a href="https://app.daily.dev/Piero"><img src="https://api.daily.dev/devcards/ac1ce9c3a1e54fd599de2b551f21e0bd.png?r=ucc" width="400" alt="Piero Neri's Dev Card"/></a>
 <!--
 **PieroNr/PieroNr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
